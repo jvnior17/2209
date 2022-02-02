@@ -1,6 +1,5 @@
 import work1 from "../images/work1.png";
 import work2 from "../images/work2.png";
-import work3 from "../images/work4.png";
 import work4 from "../images/work4.png";
 import work5 from "../images/work5.png";
 import work6 from "../images/work6.png";

@@ -17,7 +17,7 @@ export const ResumeView = () => {
         <Title title={"Resume"} span={"Resume"} />
         <InnerLayout>
         <a
-          rel="noreferrer"
+          rel="noopener noreferrer"
           target="_blank"
           href="https://drive.google.com/file/d/12E8Gr7sM_h5CyQqqsrQ-VA5_IfcV_KYE/view?usp=sharing"
         >                
