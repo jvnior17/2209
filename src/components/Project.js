@@ -80,6 +80,7 @@ const ProjectComponentStyled = styled.div`
     text-decoration: none;
   }
   .card-image {
+    align-text: center;
     border-radius: var(--spacing-l);
     filter: brightness(1) saturate(1.2) contrast(0.85);
     transform-origin: center;
@@ -87,20 +88,24 @@ const ProjectComponentStyled = styled.div`
     transition: filter 200ms linear, transform 200ms linear;
     .header-title {
       font-weight: 700;
+      background: rgb(2,0,36);
+      background: linear-gradient(38deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 42%, rgba(0,212,255,1) 100%);
+      color:white;
+      border-radius: calc(var(--curve) * 1px);
+      height:1.5rem;
+      width:15rem;
       transition: 0.2s ease-out;
       position: absolute;
       text-transform: uppercase;
-      top: 15px;
-      left: 26px;
+      top: 0.005rem;
+      right: 0rem;
+      text-align: center;
       font-family: "Montserrat", sans-serif;
-      color: var(--white-color);
       font-size: clamp(1rem, 3vw + 1rem, 1rem);
       text-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
       line-height: 1.4;
-      word-spacing: 100vw;
       font-family: "Montserrat", sans-serif;
     }
-
     img{
       max-height: 300px;
       left: 50%;
@@ -108,7 +113,7 @@ const ProjectComponentStyled = styled.div`
       height: 100%;
       width: auto;
       background-size: cover;
-    background-position: fill;
+      background-position: fill;
     }
   }
 
@@ -120,10 +125,9 @@ const ProjectComponentStyled = styled.div`
     z-index: 1;
     background-color: rgba(0, 0, 0, 0.35);
     border-radius: calc(var(--curve) * 1px) 0 0 0;
-    color: var(--white-color);
     text-align: center;
     transform: translateY(100%);
-    transition: 0.2s ease-in-out;
+    transition: 0.5s ease-in-out;
   }
 
   .card:hover {
@@ -150,11 +154,10 @@ const ProjectComponentStyled = styled.div`
       transform: translateY(0);
     }
     .header-title {
+      color:white;
       /* transition: all 0.2s ease-in-out; */
       /* opacity: 0; */
     /* text-shadow: 1px 1px 2px var(--border-color); */
-
-
     }
     .card-image {
       transform: scale(1.05) translateZ(0);

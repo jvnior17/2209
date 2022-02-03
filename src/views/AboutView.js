@@ -15,27 +15,27 @@ export const AboutView = () => {
           </div>
           <div className="right-content">
             <p className="paragraph">
-              <strong>H</strong>i my names Paul Amponsah, I'm an active sports sports 
+              <strong>H</strong>i my names Paul Amponsah, I'm an active sports 
               loving full Stack developer. No I am not a computer science major! I’m a 
-              marketing major but I am dedicated front end developer looking to grow 
-              and learn more!
+              marketing major but I'm an extremely passionate and dedicated to full stack development. 
+              I'm looking to display my skills and develop more knowledge along the way.
               <br />
               <br />
-              <strong>W</strong>eb development has since allowed me to tap into
+              <strong>W</strong>eb development has allowed me to tap into
               multiple sub-industries within the tech realm and allowed me to
               grow an gain a better understanding of what goes on within a program.
               <br />
               <br />
               <strong>O</strong>ver the course of my degree, I have learned
-              languages such as Python, JavaScript, Java,SQL,
-              as well as Node.js, React,JSON, CSS,SASS, MongoDB, 
+              languages such as Python, JavaScript, Java, SQL,
+              Node.js, React, JSON, CSS, SASS, MongoDB, 
               PostgreSQL,and Git. Learned these skills both on my own and
               through multiple coding camps/certificates.
               <br />
               <br />
               <strong>P</strong>rogramming is a skill I am extremely passionate about,
               specifically due to my enjoyment of problem-solving. I'm always
-              looking to sharpen my skills and gain more useful skills within the field.
+              looking to sharpen my skills and gain more useful skills!
             </p>
             <div>
               <div className="about-info">

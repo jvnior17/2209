@@ -31,7 +31,7 @@ export const ResumeView = () => {
               title={"Marketing Analyst"}
               subtitle={"FutureStar Sports Agency"}
               description={
-                "Development and execution of marketing campaigns. Creation of marketing goals related to customer acquisition, lead generation and revenue. Producing and editing content for social media posts, videos, e-books, infographics, presentation decks and webinars. Cultivating relationships with potential customers such as prospects and leads—to build the company's clientele. Monitoring social media traffic to measure the public's perception of the company's brand. Testing the quality of emails, social media posts and the company's landing page. Analyzing the results of campaigns and making changes to outlast competitors "
+                "Development and execution of marketing campaigns. Producing and editing content for social media posts, videos, e-books, infographics, presentation decks and webinars. Monitoring social media traffic to measure the public's perception of the company's brand. Testing the quality of emails, social media posts and the company's landing page. Analyzing the results of campaigns and making changes to outlast competitors "
               }
               year={"Feb 2021 - Jan 2022"}
             />
@@ -39,7 +39,7 @@ export const ResumeView = () => {
               title={"Sales Administrator"}
               subtitle={"Sekur Merchant Solutions"}
               description={
-              "Services existing accounts, obtains orders, and establishes new accounts by planning and organizing daily work schedule to call on existing or potential sales outlets and other trade factors.Keeps management informed by submitting activity and results reports, such as daily call reports, weekly work plans, and monthly and annual territory analyses.Monitors competition by gathering current marketplace information on pricing, products, new products, delivery schedules, and merchandising techniques."
+              "Services existing accounts, obtains orders, and establishes new accounts by planning and organizing schedules to call on existing or potential sales outlets and other trade factors. Monitors competition by gathering current marketplace information on pricing, products, new products, delivery schedules, and merchandising techniques."
               }
               year={"Apr 2021 - Dec 2021"}
             />
@@ -53,10 +53,10 @@ export const ResumeView = () => {
           </div>
           <div className="education-content">
             <ResumeItem
-              title={"BBA (Marketing)"}
+              title={"Bachelor of Business Administration(BBA)"}
               subtitle={"Georgia Southern University"}
               description={
-                "Over the course of my degree, not only did I learn how to code but also theory behind it. Data structures, (linked lists, binary trees, dictionaries, etc), useful algorithms (e.g. Dijkstra's algorithm), the ways data is stored and interpreted at the bit and byte level , code design patterns, parallel programming & many more skills that has set me up for the rest of my career.  "
+                "Over the course of my degree I learned  in depth all the different variations of business. Enrolled in many  finance courses where I learned to stream operations through financial planning, investing, problem-solving and budgeting. While learning these major finance tools, I was simultaneously diving into the world of development. Learning many different languages and skills over the course of my degree and hope to learn much more in the near future!"
               }
               year={"Sept 2017 - Apr 2020"}
             />
@@ -66,7 +66,7 @@ export const ResumeView = () => {
               title={"Business Commerce (Marketing)"}
               subtitle={"Carleton University"}
               description={
-                "Over the course of my degree, not only did I learn how to code but also theory behind it. Data structures, (linked lists, binary trees, dictionaries, etc), useful algorithms (e.g. Dijkstra's algorithm), the ways data is stored and interpreted at the bit and byte level , code design patterns, parallel programming & many more skills that has set me up for the rest of my career.  "
+                "I was also given the opportunity to explore the many facets of marketing, some of which are consumer interaction, marketing analytics, brand management, marketing for social change, advertisement and social media strategy. While learning these facets of marketing I was simultaneously diving into the world of development. Learning many different languages and skills over the course of my degree and hope to learn much more in the near future! "
               }
               year={"Sept 2021 - Apr 2022"}
             />

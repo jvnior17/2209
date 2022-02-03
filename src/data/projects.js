@@ -7,7 +7,7 @@ import work6 from "../images/work6.png";
 export const projects = [
   {
     name: "Cornerstone",
-    id: "cornerstone",
+    id: "Cornerstone",
     image: work1,
     liveLink:"https://cornerstonerestuarant.netlify.app",
     repoLink:"https://github.com/jvnior17/cornerstone",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     name: "Muse",
-    id: "muse",
+    id: "Muse",
     image: work2,
     liveLink: "https://museecommerce.netlify.app",
     repoLink: "https://github.com/jvnior17/ecommerce",
@@ -26,8 +26,8 @@ export const projects = [
     side: "Front End",
   },
   {
-    name: "ROBO Friends",
-    id: "robo",
+    name: "Robots",
+    id: "Robo",
     image: work4,
     liveLink: "https://funrobofriends.netlify.app",
     repoLink: "https://github.com/jvnior17/Robofriends",
@@ -46,7 +46,7 @@ export const projects = [
     side: "Front End",
   },
   {
-    name: "Image Detection",
+    name: "Img-Detection",
     id: "facereco",
     image: work6,
     liveLink:"https://app2717.herokuapp.com/",

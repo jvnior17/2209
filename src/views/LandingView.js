@@ -18,7 +18,7 @@ export const Landing = () => {
             Hello World, I'm
             <br />{" "}
             <span>
-              <h1 className="name">Paul Amponsah.</h1>
+              <h1 className="name">Paul Amponsah</h1>
             </span>
           </h1>
           <div className="card">
@@ -26,7 +26,9 @@ export const Landing = () => {
               <span>
                 Full Stack Developer
                 <br />
-                Freelance
+                Freelancer
+                <br />
+                Leader 
               </span>
             </div>
           </div>
@@ -186,8 +188,8 @@ const LandingPageStyled = styled.header`
     animation: float 2.5s infinite normal ease-in-out;
     img {
       display: block;
-      width: 15vw;
-      height: 25vh;
+      width: 10rem;
+      height: 10rem;
       border-radius: 50%;
       border: 8px solid var(--border-color);
     }
@@ -352,6 +354,20 @@ const LandingPageStyled = styled.header`
           font-size: clamp(1.5rem, 1vw + 1rem, 2rem);
         }
       }
+      .avatar {
+        border-color: var(--border-color);
+        position: relative;
+        padding: 1rem 0;
+        transition-delay: 2s;
+        animation: 3s fadeIn;
+        animation: float 2.5s infinite normal ease-in-out;
+        img {
+          display: block;
+          width: 10rem;
+          height: 10rem;
+          border-radius: 50%;
+          border: 8px solid var(--border-color);
+        }
       .subtitle {
       }
       .scroller {

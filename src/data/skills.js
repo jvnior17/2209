@@ -54,12 +54,6 @@ export const skills = [
     image: "https://img.icons8.com/color/48/000000/postgreesql.png",
     technologies: ["PostgresSQL", "MySql"],
   },
-
-  {
-    name: "Teamwork",
-    image: "https://img.icons8.com/color/48/000000/teamwork--v2.png",
-    technologies: [],
-  },
   {
     name: "TypeScript",
     image: "https://img.icons8.com/color/48/000000/typescript.png",
@@ -73,6 +67,11 @@ export const skills = [
   {
     name: "React",
     image: "https://img.icons8.com/office/48/000000/react.png",
+    technologies: [],
+  },
+  {
+    name: "Node.js",
+    image: "https://img.icons8.com/fluency/48/000000/node-js.png",
     technologies: [],
   },
 
