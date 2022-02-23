@@ -16,14 +16,14 @@ export const AboutView = () => {
           <div className="right-content">
             <p className="paragraph">
               <strong>H</strong>i my names Paul Amponsah, I'm an active sports 
-              loving full Stack developer. No I am not a computer science major! I’m a 
-              marketing major but I'm an extremely passionate and dedicated to full stack development. 
-              I'm looking to display my skills and develop more knowledge along the way.
+              loving full Stack developer. I’m a marketing major but I'm an extremely 
+              passionate and dedicated to full stack development. I'm looking to 
+              display my skills and develop more knowledge along the way.
               <br />
               <br />
               <strong>W</strong>eb development has allowed me to tap into
               multiple sub-industries within the tech realm and allowed me to
-              grow an gain a better understanding of what goes on within a program.
+              grow and gain a better understanding of what goes on within a program.
               <br />
               <br />
               <strong>O</strong>ver the course of my degree, I have learned

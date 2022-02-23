@@ -3,6 +3,8 @@ import work2 from "../images/work2.png";
 import work4 from "../images/work4.png";
 import work5 from "../images/work5.png";
 import work6 from "../images/work6.png";
+import medical from "../images/medical.png";
+import jewelry from "../images/jewelry.png";
 
 export const projects = [
   {
@@ -54,6 +56,26 @@ export const projects = [
     description: "Lorem ipsum dolor sit amet.",
     year: "2022",
     side: "Full Stack",
+  },
+  {
+    name: "Jewelry Promo",
+    id: "jewelry",
+    image: jewelry,
+    liveLink:"https://jewelry-email.netlify.app/",
+    repoLink:"https://github.com/jvnior17/Jewelry",
+    description: "Lorem ipsum dolor sit amet.",
+    year: "2022",
+    side: "Email Development",
+  },
+  {
+    name: "Medical",
+    id: "Medical",
+    image: medical,
+    liveLink:"https://medical-email.netlify.app/",
+    repoLink:"https://github.com/jvnior17/Medical",
+    description: "Lorem ipsum dolor sit amet.",
+    year: "2022",
+    side: "Email Development",
   },
 ];
 export default projects;

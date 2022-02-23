@@ -50,7 +50,7 @@ export const ContactView = () => {
               <ContactItem
                 // title={"Location: "}
                 icon={locationIcon}
-                contact1={"Brampton, ON"}
+                contact1={"Ontario, Canada"}
               />
             </div>
             <div className="social-icons">
