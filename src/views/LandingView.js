@@ -27,6 +27,8 @@ export const Landing = () => {
                 Full Stack Developer
                 <br />
                 Freelancer
+                <br /> 
+                Email Developer
                 <br />
                 Leader 
               </span>
