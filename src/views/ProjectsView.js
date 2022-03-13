@@ -36,7 +36,6 @@ export const ProjectsView = () => {
             </div>
           ))}
         </div>
-        <p>Skills grow.. and so will this portfolio..</p>
       </MainLayout>
     </ProjectsViewStyled>
   );

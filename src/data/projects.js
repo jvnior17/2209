@@ -5,6 +5,7 @@ import work5 from "../images/work5.png";
 import work6 from "../images/work6.png";
 import medical from "../images/medical.png";
 import jewelry from "../images/jewelry.png";
+import apple from "../images/apple1.png";
 
 export const projects = [
   {
@@ -73,6 +74,16 @@ export const projects = [
     image: medical,
     liveLink:"https://medical-email.netlify.app/",
     repoLink:"https://github.com/jvnior17/Medical",
+    description: "Lorem ipsum dolor sit amet.",
+    year: "2022",
+    side: "Email Development",
+  },
+  {
+    name: "Apple Purchase",
+    id: "Apple",
+    image: apple,
+    liveLink:"apple-transaction.netlify.app",
+    repoLink:"https://github.com/jvnior17/transactional",
     description: "Lorem ipsum dolor sit amet.",
     year: "2022",
     side: "Email Development",
