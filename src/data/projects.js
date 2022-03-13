@@ -82,7 +82,7 @@ export const projects = [
     name: "Apple Purchase",
     id: "Apple",
     image: apple,
-    liveLink:"apple-transaction.netlify.app",
+    liveLink:"https://apple-transaction.netlify.app/",
     repoLink:"https://github.com/jvnior17/transactional",
     description: "Lorem ipsum dolor sit amet.",
     year: "2022",
