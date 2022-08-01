@@ -24,13 +24,13 @@ export const Landing = () => {
           <div className="card">
             <div className="scroller">
               <span>
-                Full Stack Developer
+                Front-End Developer
+                <br />
+                Email Developer
+                <br /> 
+                Data Clerk/Analyst 
                 <br />
                 Freelancer
-                <br /> 
-                Email Developer
-                <br />
-                Leader 
               </span>
             </div>
           </div>
